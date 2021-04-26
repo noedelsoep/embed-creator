@@ -19,7 +19,7 @@
 </p>
   
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Menu List</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -118,12 +118,12 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
+Logicguy - [@noedelsoep_#0010](https://www.discordapp.com) - noedelsoeptwitch@gmail.com
 
-Project Link: [https://github.com/logicguy1/The-all-in-one-discord-tool](https://github.com/logicguy1/The-all-in-one-discord-tool)
+Project Link: [https://github.com/Noedelss/python-1](https://github.com/Noedelss/python-1)
 
 <!-- Statistics -->  
 
 <p>
-<img src=https://komarev.com/ghpvc/?username=Drillenissen />
+<img src=https://komarev.com/ghpvc/?username=Noedelss />
 </p>
