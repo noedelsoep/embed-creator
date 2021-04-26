@@ -48,7 +48,7 @@
   </ol>
 </details>
 
-## About The Project
+## Example of embed
 
 <img src="assets/voorbeeld.png" alt="Image of product">
 
