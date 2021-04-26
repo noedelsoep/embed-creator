@@ -50,7 +50,7 @@
 
 ## About The Project
 
-<img src="assets/example.png" alt="Image of product">
+<img src="assets/voorbeeld.png" alt="Image of product">
 
 embed creator!
 
