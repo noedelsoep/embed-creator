@@ -5,10 +5,10 @@
     <img src="assets/logo.png" alt="Logo" width="150" height="150">
   </a>
   
-  <h3 align="center">Discord Nitro Generator and Checker</h3>
+  <h3 align="center">Discord embed creator!</h3>
 
   <p align="center">
-    A discord nitro generator and checker for all your nitro needs
+    A discord embed creator easy and safe!
     <br />
     <a href="https://github.com/Noedelss/python-1/issues">Report Bug</a>
     ·
