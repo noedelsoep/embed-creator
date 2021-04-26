@@ -52,8 +52,8 @@
 
 <img src="assets/voorbeeld.png" alt="Image of product">
 
-embed creator!
-
+max 1 field we are working on the fields!
+ 
 ### Built With
 
 * [Requests](https://github.com/psf/requests)
