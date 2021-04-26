@@ -46,7 +46,7 @@
 
 <img src="assets/example.png" alt="Image of product">
 
-It generates and checks discord nitro codes at the same time for maximum efficancy
+embed creator!
 
 ### Built With
 
@@ -101,7 +101,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Noedelss/python-1/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
