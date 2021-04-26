@@ -1,7 +1,8 @@
 # python #1
 for noelP by noedloep_
 
-![4a3499c6b5cca368ec4e3717f9077114](https://user-images.githubusercontent.com/80974924/116073340-929a0180-a690-11eb-88c9-93c5505e0563.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80974924/116074609-48198480-a692-11eb-80cb-c6cb9139e763.gif)
+
 
 
 # exempel
