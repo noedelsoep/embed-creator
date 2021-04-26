@@ -1,4 +1,4 @@
-
+[![Issues][issues-shield]][https://github.com/Noedelss/embed-creator/issues]
 <br />
 <p align="center">
     <a href="https://github.com/Noedelss/python-1">
