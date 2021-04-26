@@ -10,12 +10,9 @@
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Report Bug</a>
+    <a href="https://github.com/Noedelss/python-1/issues">Report Bug</a>
     ·
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Request Feature</a>
+    <a href="https://github.com/Noedelss/python-1/issues">Request Feature</a>
       ·
     <a href="https://discord.gg/rchHUU9aGk">Join the discord</a>
   </p>
