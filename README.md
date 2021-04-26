@@ -14,7 +14,7 @@
     ·
     <a href="https://github.com/Noedelss/python-1/issues">Request Feature</a>
       ·
-    <a href="https://discord.gg/rchHUU9aGk">Join the discord</a>
+    <a href="https://discord.gg/FHNZxjz4Fj">Join the discord</a>
   </p>
 </p>
   
