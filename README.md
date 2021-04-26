@@ -1,8 +1,10 @@
 <p align="center">
 <img src=https://img.shields.io/github/issues/Noedelss/embed-creator />
+</p>
+<p align="center">
 <img src=https://img.shields.io/github/forks/Noedelss/embed-creator />
 <img src=https://img.shields.io/github/stars/Noedelss/embed-creator />
-    
+</p>
 <br />
 <p align="center">
     <a href="https://github.com/Noedelss/python-1">
