@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/logo.gif="Logo">
+    <img src="assets/logo.png="Logo">
   </a>
   
   <h3 align="center">Discord Nitro Generator and Checker</h3>
