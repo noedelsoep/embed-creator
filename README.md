@@ -1,3 +1,4 @@
+[![Issues][issues-shield]][issues-url]
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
