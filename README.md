@@ -52,6 +52,7 @@ embed creator!
 
 * [Requests](https://github.com/psf/requests)
 * [Discord webhook](https://github.com/lovvskillz/python-discord-webhook)
+* [python](https://github.com/python)
 
 ## Getting Started
 
