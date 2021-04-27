@@ -50,7 +50,7 @@
 
 ## Example of embed
 
-<img src="assets/voorbeeld.png" alt="Image of product">
+<img src="assets/voorbeeld2.png" alt="Image of product">
 
 max 1 field we are working on the fields!
  
