@@ -52,12 +52,13 @@ max 1 field we are working on the fields!
 * [Discord webhook](https://github.com/lovvskillz/python-discord-webhook)
 * [Python](https://github.com/python)
 * [Colorama](https://pypi.org/project/colorama/)
-* [Os](https://docs.python.org/3/library/os.html)
+* [Os.system](https://docs.python.org/3/library/os.html)
 
 ## Getting Started
 
-You need to install python, that can be done [here](https://www.python.org)
+You need to install python, that can be done [here](https://www.python.org) 3.8
 
+And you need to install winrar that can be done [here](https://www.win-rar.com/start.html?&L=16) or [7-zip](https://www.7-zip.org/)
 
 ## Copyright
 
