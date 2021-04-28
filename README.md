@@ -1,5 +1,5 @@
 <p align="center">
-<img src=[https://img.shields.io/github/issues/Noedelss/embed-creator](https://github.com/noedelsoep/embed-creator/issues) />
+[https://img.shields.io/github/issues/Noedelss/embed-creator](https://github.com/noedelsoep/embed-creator/issues)
 </p>
 <p align="center">
 <img src=https://img.shields.io/github/forks/Noedelss/embed-creator />
