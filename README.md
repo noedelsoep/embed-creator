@@ -67,45 +67,6 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 You need to install python, that can be done [here](https://www.python.org)
 
-### Installation
-1. Clone the repo
-   ```sh
-   git clone https://github.com/logicguy1/The-all-in-one-discord-tool.git
-   ```
-2. Install Python packages
-   ```sh
-   # Windows:
-   py -3 -m pip install requests
-   py -3 -m pip install discord_webhook
-   
-   # Unix
-   python3.8 -m pip install requests
-   python3.8 -m pip install discord_webhook
-   ```
-   
-#### Or this can be done using android with unrooted termiux
-```
-git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker
-pkg install python
-pip install discord_webhooks
-pip install requests
-cd Discord-Nitro-Generator-and-Checker
-python3 main.py
-```
-   
-## Usage
-
-Run the `main.py` file using `py -3 main.py` 
-The code will show you two promps:
-1. How many codes to generate 
-2. If you want to use a discord webhook, if you dont know how to get a discord webhook url it is located at   
-   ```channel settings » intergrations » webhooks » create webhook```  
-   if you dont want to use a webhook simply leave this blank  
-
-The code will start generatring and checking after that step
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 ## Roadmap
 
 See the [open issues](https://github.com/Noedelss/python-1/issues) for a list of proposed features (and known issues).
