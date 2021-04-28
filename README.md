@@ -46,7 +46,7 @@ And you need to install Winrar that can be done [here](https://www.win-rar.com/s
 
 ## Copyright
 
-© 2021 noedelsoep_#0010
+© 2021 noedl™
 
 ## Contact
 
