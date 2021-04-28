@@ -68,7 +68,7 @@ And you need to install Winrar that can be done [here](https://www.win-rar.com/s
 
 Contact - [@noedelsoep_#0010](https://www.discordapp.com) - noedelsoeptwitch@gmail.com
 
-Project Link: [https://github.com/Noedelss/python-1](https://github.com/Noedelss/python-1)
+Project Link: [Embed creator](https://github.com/noedelsoep/embed-creator)
 
 <!-- Statistics -->  
 
